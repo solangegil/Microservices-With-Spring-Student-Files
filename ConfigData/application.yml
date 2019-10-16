@@ -29,4 +29,5 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
-  
+
+lucky-word-generic: word-generic
