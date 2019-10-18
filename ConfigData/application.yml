@@ -35,3 +35,9 @@ lucky-word-generic: word-generic
 
 ---
 mensaje: Se obtuvo el listado de personas exitosamente
+
+---
+mensajeError: No se encuentra el dni %
+mensajeService: Servicio no disponible
+
+
