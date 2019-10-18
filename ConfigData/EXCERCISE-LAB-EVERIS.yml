@@ -1,20 +1,20 @@
 ---
-listaPersonas:
+list:
   persons: 
    - dni: 12345670
-    nombres: Juan Carlos
-    apellidos: Domiguez Ruiz
+     nombres: Juan Carlos
+     apellidos: Domiguez Ruiz
    - dni: 12345671
-    nombres: Juan1 Carlos1
-    apellidos: Domiguez1 Ruiz1
+     nombres: Juan1 Carlos1
+     apellidos: Domiguez1 Ruiz1
    - dni: 12345672
-    nombres: Juan2 Carlos2
-    apellidos: Domiguez2 Ruiz2
-    - dni: 12345673
-    nombres: Juan3 Carlos3
-    apellidos: Domiguez3 Ruiz3
-    - dni: 12345674
-    nombres: Juan4 Carlos4
-    apellidos: Domiguez4 Ruiz4
+     nombres: Juan2 Carlos2
+     apellidos: Domiguez2 Ruiz2
+   - dni: 12345673
+     nombres: Juan3 Carlos3
+     apellidos: Domiguez3 Ruiz3
+   - dni: 12345674
+     nombres: Juan4 Carlos4
+     apellidos: Domiguez4 Ruiz4
 
 
