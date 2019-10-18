@@ -1,30 +1,20 @@
 ---
-# Items that apply to ALL profiles:
-eureka:
-  client:
-    serviceUrl:
-      #defaultZone: http://localhost:8010/eureka/
-      defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
-      
---------
-spring:
-  profiles: listar
-  app:
-    persona: 
-     - dni: 12345670
-      nombres: Juan Carlos
-      apellidos: Domiguez Ruiz
-     - dni: 12345671
-      nombres: Juan1 Carlos1
-      apellidos: Domiguez1 Ruiz1
-     - dni: 12345672
-      nombres: Juan2 Carlos2
-      apellidos: Domiguez2 Ruiz2
-      - dni: 12345673
-      nombres: Juan3 Carlos3
-      apellidos: Domiguez3 Ruiz3
-      - dni: 12345674
-      nombres: Juan4 Carlos4
-      apellidos: Domiguez4 Ruiz4
+listaPersonas:
+  persons: 
+   - dni: 12345670
+    nombres: Juan Carlos
+    apellidos: Domiguez Ruiz
+   - dni: 12345671
+    nombres: Juan1 Carlos1
+    apellidos: Domiguez1 Ruiz1
+   - dni: 12345672
+    nombres: Juan2 Carlos2
+    apellidos: Domiguez2 Ruiz2
+    - dni: 12345673
+    nombres: Juan3 Carlos3
+    apellidos: Domiguez3 Ruiz3
+    - dni: 12345674
+    nombres: Juan4 Carlos4
+    apellidos: Domiguez4 Ruiz4
 
-lucky-word-generic: word-generic
+
