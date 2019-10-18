@@ -33,5 +33,5 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 lucky-word-generic: word-generic
 
-mensaje1: Se obtuvo el listado de personas exitosamente
-mensaje2: Error en listado de personas
+mensajeOk: Se obtuvo el listado de personas exitosamente
+mensajeError: Error en listado de personas
