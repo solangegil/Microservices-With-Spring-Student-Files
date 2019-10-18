@@ -22,4 +22,6 @@ list:
      nombres: Juan4 Carlos4
      apellidos: Domiguez4 Ruiz4
 
-
+---
+mensajeError: No existe Persona
+mensajeService: Servicio no disponible
