@@ -21,7 +21,3 @@ list:
      dni: 12345674
      nombres: Juan4 Carlos4
      apellidos: Domiguez4 Ruiz4
-
----
-mensajeError: No se encuentra el dni %
-mensajeService: Servicio no disponible
