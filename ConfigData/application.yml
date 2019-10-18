@@ -7,6 +7,9 @@ eureka:
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
       
 ---
+message: Se obtuvo el listado de personas exitosamente
+
+---
 spring:
   profiles: subject
 words: I,You,He,She,It
@@ -33,5 +36,3 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 lucky-word-generic: word-generic
 
-mensajeOk: Se obtuvo el listado de personas exitosamente
-mensajeError: Error en listado de personas
